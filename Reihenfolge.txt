@@ -1,3 +1,0 @@
-1. In Setup: Setup.Exe ausführen
-2. In Patch: farmpatch.exe ausführen (Pfad fixen)
-3. In Fix: Alles in dein Instllationspfad reinschieben und fix.bat ausführen
